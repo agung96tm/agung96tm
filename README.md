@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi I'm "Agung Yuliyanto" 🤘
 
-<!--
-**agung96tm/agung96tm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Software Enginner_
 
-Here are some ideas to get you started:
+[<img src='https://img.shields.io/badge/-LinkedIn-0e76a8?logo=linkedIn' alt='linkedin'>](https://id.linkedin.com/in/agung96tm)
+[<img src='https://img.shields.io/badge/-Facebook-39569C?&logo=Facebook' alt='facebook'>](https://www.facebook.com/manwithoutconfusion/)
+[<img src='https://img.shields.io/badge/-Twitter-FFFFFF?&logo=Twitter' alt='twitter'>](https://twitter.com/agung96tm)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+✨ Little Secret About Me:
+```python
+# My Profile
+NAME = 'Agung Yuliyanto'
+BIO = 'Love my work, Love my Knowladge, Love my Live ❤️'
+
+# Programming and Framework
+PROGRAMMING_LANGUAGES = ['python', 'javascript', 'typescript', 'php']
+BACKEND = ['Django', 'Laravel']
+FRONTEND = ['React', 'Angular']
+
+# Greeting
+print('Nice to meet you guys!!!')
+```
+
+---
+
+![Agung’ GitHub stats](https://github-readme-stats.vercel.app/api?username=agung96tm&theme=slateorange&show_icons=true&count_private=true)
