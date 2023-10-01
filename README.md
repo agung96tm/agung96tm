@@ -23,8 +23,7 @@ print('Nice to meet you guys!!!')
 ```
 
 ---
-[![An image of @agung96tm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/agung96tm)](https://holopin.io/@agung96tm)
-
----
 ![Agung’ GitHub stats](https://github-readme-stats.vercel.app/api?username=agung96tm&theme=slateorange&show_icons=true&count_private=true)
 
+---
+[![An image of @agung96tm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/agung96tm)](https://holopin.io/@agung96tm)
