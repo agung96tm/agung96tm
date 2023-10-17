@@ -11,12 +11,12 @@ _Software Engineer_
 ```python
 # My Profile
 NAME = 'Agung Yuliyanto'
-BIO = 'Love my work, Love my Knowladge, Love my Live ❤️'
+BIO = 'Love my work, Love my Knowledge, Love my Live ❤️'
 
 # Programming and Framework
-PROGRAMMING_LANGUAGES = ['python', 'javascript', 'typescript', 'php']
-BACKEND = ['Django', 'Flask', 'Fastapi', 'Laravel']
-FRONTEND = ['React', 'Angular']
+PROGRAMMING_LANGUAGES = ['python', 'golang', 'javascript', 'typescript', 'php']
+BACKENDS = ['Django', 'Flask', 'Fastapi', 'Echo', 'Gin', 'Laravel']
+FRONTENDS = ['React', 'Angular']
 
 # Greeting
 print('Nice to meet you guys!!!')
