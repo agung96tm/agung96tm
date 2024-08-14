@@ -15,8 +15,8 @@ BIO = 'Love my work, Love my Knowledge, Love my Live ❤️'
 
 # Programming and Framework
 PROGRAMMING_LANGUAGES = ['python', 'golang', 'javascript', 'typescript', 'php']
-BACKENDS = ['Django', 'Flask', 'Fastapi', 'Echo', 'Gin', 'Laravel']
-FRONTENDS = ['React', 'Angular']
+BACKENDS = ['ExpressJS', 'NestJS', 'Django', 'Flask', 'Fastapi', 'Echo', 'Gin', 'Laravel']
+FRONTENDS = ['React', 'Angular', 'NextJS']
 
 # Greeting
 print('Nice to meet you guys!!!')
