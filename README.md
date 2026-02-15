@@ -14,15 +14,15 @@ BIO = 'Love my work, Love my Knowledge, Love my Live ❤️'
 
 # Programming and Framework
 PROGRAMMING_LANGUAGES = ['python', 'golang', 'javascript', 'typescript', 'php']
-BACKENDS = ['ExpressJS', 'NestJS', 'Django', 'Flask', 'Fastapi', 'Echo', 'Gin', 'Laravel']
-FRONTENDS = ['React', 'Angular', 'NextJS']
+BACKENDS = ['ExpressJS', 'NestJS', 'Django', 'Flask', 'Fastapi', 'Echo', 'Gin', 'Go Vanilla', 'Laravel']
+FRONTENDS = ['React', 'Angular', 'Next']
 
 # Greeting
 print('Nice to meet you guys!!!')
 ```
 
 ---
-![Agung’s GitHub stats](https://github-readme-stats.vercel.app/api?username=agung96tm&theme=slateorange&show_icons=true&count_private=true&cache_seconds=86400)
+[![Agung’s GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=agung96tm&theme=slateorange&show_icons=true)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 ---
 [![An image of @agung96tm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/agung96tm)](https://holopin.io/@agung96tm)
